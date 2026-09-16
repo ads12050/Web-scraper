@@ -1,0 +1,6 @@
+playwright
+pandas
+pdfplumber
+openpyxl
+requests
+pillow
